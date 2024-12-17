@@ -1,0 +1,17 @@
+###incloud<stdio.h>
+int main(){int i ,j,x;
+int char m[4][4]
+for=(i=0;i<4;i++){
+    for=(j=0;j<4;j++){
+    if(i=J);
+    printf("%d",m[i][j]);}
+    }
+for=(i=1;i<N;i++){
+    for=(j=0;j<N;j++){
+    x=m[j][i];
+    m[j][i]=m[i][j];
+    m[i][j]=x
+    printf("%d",m[i][j]);
+}
+}
+routn0;  }
